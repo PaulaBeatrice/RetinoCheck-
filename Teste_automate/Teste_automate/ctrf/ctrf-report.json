@@ -1,0 +1,104 @@
+{
+  "results": {
+    "tool": {
+      "name": "playwright"
+    },
+    "summary": {
+      "tests": 6,
+      "passed": 6,
+      "failed": 0,
+      "pending": 0,
+      "skipped": 0,
+      "other": 0,
+      "start": 1715898308312,
+      "stop": 1715898371496,
+      "suites": 0
+    },
+    "tests": [
+      {
+        "name": "should display toast message with \"Invalid credentials\" when entering invalid credentials",
+        "status": "passed",
+        "duration": 14866,
+        "start": 1715898314,
+        "stop": 1715898329,
+        "rawStatus": "passed",
+        "tags": [],
+        "type": "e2e",
+        "filePath": "D:\\FACULTATE\\FACULTATE\\LICENTA\\Teste_automate\\tests\\loginInvalidTest.spec.js",
+        "retries": 0,
+        "flaky": false,
+        "suite": "chromium > loginInvalidTest.spec.js"
+      },
+      {
+        "name": "should login successfully",
+        "status": "passed",
+        "duration": 8342,
+        "start": 1715898313,
+        "stop": 1715898322,
+        "rawStatus": "passed",
+        "tags": [],
+        "type": "e2e",
+        "filePath": "D:\\FACULTATE\\FACULTATE\\LICENTA\\Teste_automate\\tests\\loginValidTest.spec.js",
+        "retries": 0,
+        "flaky": false,
+        "suite": "chromium > loginValidTest.spec.js"
+      },
+      {
+        "name": "should login successfully",
+        "status": "passed",
+        "duration": 12787,
+        "start": 1715898320,
+        "stop": 1715898333,
+        "rawStatus": "passed",
+        "tags": [],
+        "type": "e2e",
+        "filePath": "D:\\FACULTATE\\FACULTATE\\LICENTA\\Teste_automate\\tests\\scenarioTest.spec.js",
+        "retries": 0,
+        "flaky": false,
+        "suite": "chromium > scenarioTest.spec.js"
+      },
+      {
+        "name": "should display toast message with \"Invalid credentials\" when entering invalid credentials",
+        "status": "passed",
+        "duration": 19574,
+        "start": 1715898314,
+        "stop": 1715898334,
+        "rawStatus": "passed",
+        "tags": [],
+        "type": "e2e",
+        "filePath": "D:\\FACULTATE\\FACULTATE\\LICENTA\\Teste_automate\\tests\\loginInvalidTest.spec.js",
+        "retries": 0,
+        "flaky": false,
+        "suite": "firefox > loginInvalidTest.spec.js"
+      },
+      {
+        "name": "should login successfully",
+        "status": "passed",
+        "duration": 12770,
+        "start": 1715898336,
+        "stop": 1715898349,
+        "rawStatus": "passed",
+        "tags": [],
+        "type": "e2e",
+        "filePath": "D:\\FACULTATE\\FACULTATE\\LICENTA\\Teste_automate\\tests\\loginValidTest.spec.js",
+        "retries": 0,
+        "flaky": false,
+        "suite": "firefox > loginValidTest.spec.js"
+      },
+      {
+        "name": "should login successfully",
+        "status": "passed",
+        "duration": 17310,
+        "start": 1715898346,
+        "stop": 1715898363,
+        "rawStatus": "passed",
+        "tags": [],
+        "type": "e2e",
+        "filePath": "D:\\FACULTATE\\FACULTATE\\LICENTA\\Teste_automate\\tests\\scenarioTest.spec.js",
+        "retries": 0,
+        "flaky": false,
+        "suite": "firefox > scenarioTest.spec.js"
+      }
+    ]
+  }
+}
